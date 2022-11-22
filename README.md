@@ -1,6 +1,3 @@
-### Hi there 👋
-#Hola 👋, soy Maximiliano!
-
 <h1 align="center">Hola 👋, soy Maximiliano!</h1>
 <h3 align="center">Soy una persona en constante evolución, que busca siempre aprender cosas nuevas. Futuro FullStack Developer, curioso y autodidacta.</h3>
 
