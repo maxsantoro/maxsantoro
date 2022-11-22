@@ -90,5 +90,5 @@ Answer of the third question with *italic words*.
    </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcesalas96&show_icons=true&locale=en&layout=compact" alt="marcesalas96" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxsantoro&show_icons=true&locale=en&layout=compact" alt="maxsantoro" /></p>
 
