@@ -66,23 +66,23 @@ Answer of the third question with *italic words*.
 | text-align left | text-align center | text-align right |
 
 
-<h1 align="center">Hola 👋, soy Marcelo!</h1>
+<h1 align="center">Hola 👋, soy Maximiliano!</h1>
 <h3 align="center">Soy una persona en constante evolución, que busca siempre aprender cosas nuevas. Futuro FullStack Developer, curioso y autodidacta.</h3>
 
 - 🔭 Actualmente estoy trabajando en varias cosas a la vez!
 
-- 🌱 Estoy aprendiendo **JavaScript, ReactJs, Ux/Ui, Python**
+- 🌱 Estoy aprendiendo **JavaScript, ReactJs, NodeJs y Express**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/marcesalas96](https://github.com/marcesalas96)
+- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/maxsantoro](https://github.com/maxsantoro)
 
-- 📫 Como contactarme? **marcesalas1996@gmail.com**
+- 📫 Como contactarme? **maxi.santoro17@gmail.com**
 
 - ⚡ Dato curioso **Eterno curioso, amante de aprender cosas nuevas siempre**
 
 <h3 align="left">Contactame!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/marce-salas-295b09216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marce-salas-295b09216" height="30" width="40" /></a>
-<a href="https://instagram.com/marcesalas96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcesalas96" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maximiliano-santoro-b0754a158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marce-salas-295b09216" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maxiisantoro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxiisantoro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
